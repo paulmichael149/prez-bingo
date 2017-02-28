@@ -1,0 +1,29 @@
+.picker {
+	position:relative;
+	float:left;
+	width:49%;
+}
+.board {
+	position:relative;
+	width:50%;
+	float:right;
+}
+.square {
+	position:relative;
+	border: 1px dashed #333;
+	float:left;
+	clear:none;
+}
+.clearer {
+	position:relative;
+	clear:both;
+}
+.grid-elm-3 {
+	width:33%;
+}
+.grid-elm-4 {
+	width:25%;
+}
+.grid-elm-5 {
+	width:20%;
+}
